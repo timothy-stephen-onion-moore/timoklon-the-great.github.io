@@ -1,0 +1,3 @@
+[submodule "unitegallery"]
+	path = public/unitegallery
+	url = git@github.com:vvvmax/unitegallery.git
