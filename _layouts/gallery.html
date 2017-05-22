@@ -1,0 +1,20 @@
+---
+layout: page
+---
+<div id="gallery" style="display:none;">
+    {% for image in site.static_files %}
+    {% if image.path contains page.gallery_name %}
+            <img alt="An image from Tim's notebooks"
+                 src="{{ site.baseurl }}{{ image.path }}"
+                 data-image="{{ site.baseurl }}{{ image.path }}"
+                 data-description=""/>
+        {% endif %}
+    {% endfor %}
+</div>
+<script type="text/javascript">
+    jQuery(document).ready(function(){
+        jQuery("#gallery").unitegallery({
+            gallery_theme: "tiles"
+        });
+    });
+</script>

@@ -1,0 +1,63 @@
+---
+layout: poem
+title: XXX
+---
+
+- I wonder what it's like
+- for all the fishes in the sea
+- squirt squirt squirt
+- no touching, really
+- everyone's basically the same
+- their life is more three-dimensional
+- than ours will ever be
+- because we're not like that, really
+- are we
+- pregnancy's a real burden
+- women need helping and protecting
+- but not often enough, really
+- to foster inequality
+- more like yin and yang
+- just two different sides
+- both playing their roles
+- but then we stumbled into agriculture
+- and man sought to subjugate the world
+- as is our place, to be fair
+- our god-given dominance
+- and superior intelligence
+- be fruitful, multiply
+- churn them out
+- and you'll live out all your days
+- under our fierce, unwavering
+- protection
+- protection, as was seen
+- accepted, unquestioned
+- because of the physical facts of life
+- nothing gets in
+- but neither does anything get out
+- and don't you dare cross us
+- because we're doing it for your own good
+- and now
+- a thousand lifetimes later
+- we find ourselves not churning
+- still with the same old struggles
+- deconstructing and eroticising
+- living, and dying
+- but we don't need to play the roles
+- the world subjugates us into playing
+- so long as we're born blank slates
+- and it isn't genetics
+- makes all of you so much smarter
+- so much stronger
+- than us
+- we live in hope, or don't
+- and that's the difference
+- isn't it
+- between the right and the left
+- take nature as inescapable
+- and make the best of what we've got
+- or pledge yourself to a future
+- beyond the span of your own life
+- one more equal
+- one more fair
+- and let's face it
+- one more sexy, too

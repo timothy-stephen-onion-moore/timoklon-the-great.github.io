@@ -1,0 +1,35 @@
+<div>
+    {% assign total_n_texts = site.texts | size %}
+    {% assign remaining_texts = total_n_texts %}
+    {% assign n_columns = 3 %}
+    {% assign minimum_number_of_texts_per_column = remaining_texts | divided_by: n_columns %}
+    {% assign n_texts_already_displayed = 0 %}
+    {% for column in (1..n_columns) %}
+        {% assign n_texts_in_column = 0 %}
+        {% assign remainder = remaining_texts | modulo: minimum_number_of_texts_per_column %}
+        {% if remainder != 0 %}
+            {% assign n_texts_in_column = minimum_number_of_texts_per_column | plus: 1 %}
+            {% assign remaining_texts = remaining_texts | minus: n_texts_in_column %}
+        {% else %}
+            {% assign n_texts_in_column = minimum_number_of_texts_per_column %}
+        {% endif %}
+        <div class="col-md-4">
+            <ul class="post">
+            {% assign range_end = n_texts_already_displayed | plus: n_texts_in_column %}
+            {% if range_end > total_n_texts %}
+                {% assign range_end = total_n_texts | minus:1 %}
+            {% else %}
+                {% assign range_end = range_end | minus:1 %}
+            {% endif %}
+            {% for index in (n_texts_already_displayed..range_end) do %}
+              <li class="post-title">
+                <a href="{{ site.baseurl }}{{ site.texts[index].url }}">
+                  {{ site.texts[index].title }}
+                </a>
+              </li>
+            {% endfor %}
+            </ul>
+        </div>
+        {% assign n_texts_already_displayed = n_texts_already_displayed | plus: n_texts_in_column %}
+    {% endfor %}
+</div>

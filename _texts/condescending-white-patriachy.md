@@ -1,0 +1,54 @@
+---
+layout: poem
+title: Condescending white patriarchy
+---
+
+- can I please be
+- a condescending white patriarch
+- for a second
+- because as is so abundantly evident
+- as motivates all your struggle
+- we have all the fucking power
+- and we're not going to give it to you
+- just because you ask us for it
+- that isn't how this works
+- you imbeciles
+- you don't win fights by being nice
+- by telling the truth
+- especially not when your adversary
+- can swat you like a fly
+- hold a gun to the head of power
+- he'll say take it all
+- over my dead body
+- so you'd better be prepared
+- to pull that trigger
+- but you're not
+- are you
+- you're the nice guys
+- and that's why you're the underdogs
+- and you'd better believe
+- there isn't anything the man won't do
+- to hold on to what he's got
+- anything
+- you understand
+- so if you don't want to fall to his level
+- and incite violence
+- you meet him at his true level
+- of assuming superiority to begin with
+- you saddle up to him
+- pretend to compromise
+- make him like you
+- then you fuck him in the arse
+- and of course
+- I would say that
+- because I'm white and I'm a man
+- don't segregate
+- join us
+- join the existent power
+- I protect the established system
+- like my precious genetics tell me to
+- and here I am
+- saddling up to you
+- pretending to compromise
+- making you like me
+- and fucking you in the arse

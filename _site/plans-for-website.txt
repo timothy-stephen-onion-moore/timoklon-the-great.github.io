@@ -1,0 +1,8 @@
+Backend
+-------
+Jekyll + Github pages
+
+Editing
+-------
+Prose.io:  hhttp://prose.io/#about, ttps://www.youtube.com/watch?v=ScFg7lvnLqw
+Markdown text edit for everyone to use: http://www.texts.io/
